@@ -70,5 +70,3 @@ flutter build apk --release
 - [AI_FEATURE.md](AI_FEATURE.md)
 - [AI_Usage_Log.md](AI_Usage_Log.md)
 
-## License
-MIT — for coursework.
