@@ -3,10 +3,7 @@
 An offline Flutter app that helps students plan campus meals, log what they actually paid, and see how each choice affects a weekly food budget. All data stays on the device (SQLite + SharedPreferences). No cloud services.
 
 **Team:** [Aminur] 
-Group [Aminur]
-**Board (ClickUp):** [ClickUp board URL]
 **Kanban evidence:** `Kanban_Contribution_Evidence.pdf` (repository root)
-**Demo video:** [N/A]
 
 ## Target user
 A full-time student on a fixed weekly food budget who eats on or near campus.
