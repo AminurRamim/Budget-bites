@@ -90,7 +90,7 @@ class _MealFormScreenState extends State<MealFormScreen> {
               ),
               const SizedBox(height: 16),
               DropdownButtonFormField<String>(
-                value: _category,
+                initialValue: _category,
                 decoration: const InputDecoration(labelText: 'Category'),
                 items: Meal.categories
                     .map((c) => DropdownMenuItem(value: c, child: Text(c)))

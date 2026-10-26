@@ -1,5 +1,5 @@
-/// Form validators shared by the meal form, purchase flow, and edit dialog.
-/// Each returns an error message, or null when the value is valid.
+// Form validators shared by the meal form, purchase flow, and edit dialog.
+// Each returns an error message, or null when the value is valid.
 
 String? validateMealName(String? value) {
   final t = value?.trim() ?? '';
